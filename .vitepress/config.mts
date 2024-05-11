@@ -24,6 +24,9 @@ export default defineConfig({
             { text: '自定义Auth', link: '/drf/custom-auth' },
             { text: '权限-Permission', link: '/drf/permission' },
             { text: '限流-Throttle', link: '/drf/throttle' },
+            { text: '版本管理', link: '/drf/version' },
+            { text: '解析器', link: '/drf/parser' },
+            { text: '序列化器', link: '/drf/serializers' },
           ]
         },
       ],
